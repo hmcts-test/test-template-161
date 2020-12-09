@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "test-test"
+  description: test
+  annotations:
+    jenkins.io/github-folder: 'HMCTS_test/hmcts-test/test-template-161'
+    github.com/project-slug: 'hmcts-test/test-template-161'
+  tags:
+    - Java
+    - test
+spec:
+  type: service
+  lifecycle: experimental
+  owner: test
