@@ -7,7 +7,7 @@ metadata:
     jenkins.io/github-folder: 'HMCTS_test/hmcts-test/test-template-161'
     github.com/project-slug: 'hmcts-test/test-template-161'
   tags:
-    - Java
+    - java
     - test
 spec:
   type: service
