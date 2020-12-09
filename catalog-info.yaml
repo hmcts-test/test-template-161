@@ -9,6 +9,7 @@ metadata:
   tags:
     - java
     - test
+    - something
 spec:
   type: service
   lifecycle: experimental
